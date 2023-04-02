@@ -1,7 +1,10 @@
 {
   "messages": {
     "signInToAccount": "Sign in to your account to continue.",
-    "forgotYourPassword": "Forgot your password?"
+    "forgotYourPassword": "Forgot your password?",
+    "enterEmailAssociatedWithYourAccount": "Enter the email address associated with your account",
+    "backToSignIn": "Back to sign in",
+    "recoverMyPassword": "Recover my password"
   },
   "labels": {
     "welcome": "Welcome",
