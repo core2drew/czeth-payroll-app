@@ -1,0 +1,12 @@
+{
+  "messages": {
+    "signInToAccount": "Sign in to your account to continue.",
+    "forgotYourPassword": "Forgot your password?"
+  },
+  "labels": {
+    "welcome": "Welcome",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In"
+  }
+}
