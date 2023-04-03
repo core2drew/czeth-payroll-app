@@ -6,7 +6,7 @@ export function ForgotPasswordPage() {
   const { t } = useTranslation();
   return (
     <main className="flex h-screen items-center justify-center bg-gradient-to-b from-naples-yellow to-marigold">
-      <div className="flex h-96 w-full max-w-md flex-col items-center justify-center rounded-lg bg-white p-5 shadow-md">
+      <div className="flex h-96 w-full max-w-md flex-col items-center justify-center rounded-lg bg-white p-9 shadow-md">
         <h3 className="mb-4 text-3xl font-bold text-japanese-indigo">
           {t("messages.forgotYourPassword")}
         </h3>
